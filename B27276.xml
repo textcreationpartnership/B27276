@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Nevv orders of His Majesty's justices of the peace, for putting the laws in execution against all seminaries, conventicles and unlawfull meetings.</title>
+            <author>England and Wales. Justices of the Peace.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27276</idno><idno type="EEBO-CITATION">99890890</idno>
+  <idno type="VID">189179</idno>
+  <idno type="EEBO-PROQUEST">2240907401</idno>
+  
+            <idno type="OCLC"> 12637383</idno>
+            <idno type="STC">Wing N694</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.24[37]</idno>
+            <idno type="STC">ESTC R7140</idno>
+            <idno type="PROQUEST">ocm99890890</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890890e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189179)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C15:2[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Nevv orders of His Majesty's justices of the peace, for putting the laws in execution against all seminaries, conventicles and unlawfull meetings.</title>
+                  <author>England and Wales. Justices of the Peace.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Religious gatherings --  Law and legislation --  England --  Sources --  Early works to 1800.</term>
+               <term type="topical_term">Theological seminaries --  Government policy --  Great Britain --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:189179:1"/>
+            <head>THE NEW ORDERS OF His MAJESTY's Justices of the Peace, For putting the Laws in Execution against all <hi>SEMINARIES, CONVENTICLES</hi> and unlawfull Meetings.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by a Statute made in the Seventeenth year of the Reign of his Majesty that now is amongst other things it is enacted, that all such Persons, who take upon them to Preach in any unlawful Assembly, Conventicle or Meeting, under colour or pretence of any Exercise of Religion, contrary to the Laws and Statutes of this Kingdom, shall not at any time come within Five miles of a Corporation, nor any person teach School, who shall not frequent Divine Service established by the Laws of this Kingdom, as by the said Statute more at large appeareth, under the penalty of Forty pounds for every offence. And whereas by another Statute made in the Two and twentith year of the Reign of his said Majesty, it is amongst other things enacted, That if any person of the age of sixteen years and upwards, shall be present at any Assembly, Meeting, or Conventicle, under colour or pretence of any Exercise of Religion, in other manner than according to the Liturgy and practice of the Church of <hi>England,</hi> where there shall be assembled five per<g ref="char:EOLhyphen"/>sons or more, over and besides those of the Houshold: And every person who shall take upon him to preach or teach in any such Meet<g ref="char:EOLhyphen"/>ing, Assembly, and Conventicle, shall forfeit for every such offence, as in the said Statute is provided: And whereas Papists, Semi<g ref="char:EOLhyphen"/>nary Preists and Iesuits may likewise in Conventicles and Schools, withdraw his Majesties Subjects from their Obedience, and corrupt them both in their Religion and duty to his Majesty; And whereas the Iustices are informed, that divers Houses have been lately erected and built within this County, for such Conventicles and Meetings, and frequented by great numbers of persons inhabi<g ref="char:EOLhyphen"/>ting in the said County and others, to the great disturbance of the Government, and may be of dangerous consequence, and if not timely suppressed, such publick Conventicles not being permitted in any Christian Country; no, not in these very Countries where most Religions are tollerated; And whereas the Iustices are likewise informed, that divers persons keep Schools within the said County contrary to the said Statute, and other Laws by whom ill principles will be planted in young Children, which will grow up with them, and thereby continue the Separation and Division which is in this Kingdom, to the certain ruine and destruction of his Majesties Peace and the established Government. Now for the prevention of the mischiefs which may arise by the said Conventicles and Schools, the Iustices are of opinion that the said Statutes of Seventeenth and Two and twentith of this King ought to be put in due Execution, and do esteem themselves obliged by the Oaths which they have taken, to see them duly executed; And that they may do, all that in them lies, in order thereunto, They do declare that all House-keepers within this County who kéep Alehouses and other pub<g ref="char:EOLhyphen"/>lick houses for Entertainment by vertue of any License from the Iustices of the Peace of this County, and shall not go to their Parish Church and receive the Sacrament according to the practice in the Church of <hi>England,</hi> and shall after the Sixtéenth day of <hi>February</hi> 1681/2, go to any such Conventicle as aforesaid, contrary to the said Statutes, shall have their Licences taken from them, and the Houses of Entertainment suppressed; and if any such for the future happen to be licensed, as soon as they shall be discovered, they shall likewise be sup<g ref="char:EOLhyphen"/>pressed, The Iustices further declare, that if the Church-wardens and Overseers of the Poor, shall dispose of any of the Parish mony by way of Pension or otherwise to poor people who frequent Conventicles, and do not come to their Parish Church, and receive the Sacrament there (except in case of sickness and necessity to be allowed by a Iustice of Peace) the mony paid to such people shall not be allowed by the said Iustices in the Accounts of the Church-wardens and Overseers of the Poor, because such persons who never come to the Parish Church ought not to be reckoned of the Parish. The Iustices further declare, that they will appoint some fitting persons to prosecute all Offen<g ref="char:EOLhyphen"/>ders against the said Statutes, such publick houses being the place where Factious Persons méet to keep Clubs, and consult together how to disturb the Government. It is Ordered by this Court, that the aforesaid Declaration made in Sessions be published, that all persons concerned may take notice of it.</p>
+            <p>WHereas by an Order made by the Kings most Excellent Majesty in Council, dated the Fourteenth day of <hi>December</hi> last past; wherein his Majesty is pleased to express his Resolution, and doth require that the Iustices of the Peace of this County should use their utmost Endeavour to suppress all Conventicles and unlawful Méetings, under colour and pretence of Exer<g ref="char:EOLhyphen"/>cise of Religion, in other manner than according to the Liturgy and practice of the Church of <hi>England;</hi> and that the Laws be put in Execution against them both in City and Country: It is therefore Ordered by his Majesties Iustices of the Peace, in Obedience to his Majesties Command, That the Laws for the Suppressing such Meetings and Conventicles be put in due Execution: And that the said Iustices will use their utmost Endeavour to suppress all Conventicles and unlawful Meetings upon pretence of Religious Worship, within this County. And to the end this good Work may be effectually performed, It is futher Ordered, That Warrants be made and directed to the Constables, Headboroughs, Tything-men, Churchwardens, and Overseers for the Poor, of every Pa<g ref="char:EOLhyphen"/>rish and Precinct within this County, by Name commanding them and every of them, within their Parishes, Divisions and Limits, that they and every of them, do make a diligent Enquiry of all the Conventicles and unlawful Meetings, in their several Parishes and Precincts; and that they do take the Christian-Name, Sir-Name, and place of Abode, of every person that hath preached with<g ref="char:EOLhyphen"/>in a Month last past, or shall preach any time before the Sixtéenth day of <hi>February</hi> 1681/2, in any Conventicle or unlawful Meeting, and also the Christian and Sir-Name, with the additions of the most considerable persons that frequent the said Conventicles; and on Thursday the 16th of <hi>February</hi> 1681/2, they do make a true Return in Writing of the Preachers in such Conventicle, and Conventicles, most considerable persons that frequent the same, together with the day of the Month when, and the place where such Conventicles or unlawful Meetings were held; to the Sessions to be held at <hi>Hicks-Hall</hi> in <hi>St. John-Street:</hi> And that the respective Officers or some of them do prove the same upon Oath, to the end that every such Preacher in Conventicles and unlawful Meetings, and such considera<g ref="char:EOLhyphen"/>ble persons as aforesaid, may be convicted according to Law. And it is further ordered that the said Iustices do by their said Warrant require the Constables of, and within their respective Divisions, forthwith, and so from time to time to assemble the Headboroughs, Church-wardans, and Overseers of the Poor within their seeveral Constablewicks, to agrée together for putting this present Order in execution; and that when the Officers before mentioned, or any of them, do or shall repair to any Place or Méeting-house where such Con<g ref="char:EOLhyphen"/>venticles are held, as aforesaid, and demand the Names of the Preacher or persons there assembled, and they or any of them shall refuse to tell the said Officer or Ocffiers their true Christian-Names, Surnames, and Place of Abode, that then the said Officer or Officers, or some of them, do immediately apprehend such person or persons so refusing, and bring them before the next or some other of his Majesties Iustices of the Peace of this County. And it is further Ordered by this Court, that in case any of the Officers above mentioned méet with any resistance, by the shutting or barring up any Doors or Gates of any house or place where such unlawful Conventicles or Méetings are held, that then in such case the said Constables, Headboroughs Church wardens, and Overseers of the Poor, or any of them, do, and they are hereby required, to break open such Doors or Gates, to the intent such unlawful Méetters as aforesaid may be procéeded against according to Law.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
